@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/.pio/libdeps/esp32doit-devkit-v1/WiFiManager",
+    "idf.portWin": "COM30",
+    "idf.flashType": "JTAG"
+}
